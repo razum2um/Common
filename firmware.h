@@ -137,6 +137,14 @@
 #define kCFCoreFoundationVersionNumber_iOS_11_2 1450.14
 #endif
 
+#ifndef kCFCoreFoundationVersionNumber_iOS_11_3
+#define kCFCoreFoundationVersionNumber_iOS_11_3 1452.23
+#endif
+
+#ifndef kCFCoreFoundationVersionNumber_iOS_12_0
+#define kCFCoreFoundationVersionNumber_iOS_12_0 1535.12
+#endif
+
 // Comparison Macros
 // NOTE: We define 'modern' versions of constants for older versions,
 //       in order to simplify the comparison macro.
